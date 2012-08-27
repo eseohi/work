@@ -1,0 +1,12 @@
+MIDlet-7: alarm, , alarm
+MIDlet-6: formjuggling, , formjuggling
+MIDlet-5: timeMidlet, , timeMidlet
+MIDlet-4: copyandpastMidlet, , copyandpastMidlet
+MIDlet-3: multichoiceMidlet, , multichoiceMidlet
+MIDlet-2: ChoiceGroupMidlet, , ChoiceGroupMidlet
+MIDlet-1: workMidlet, , workMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Name: work
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
